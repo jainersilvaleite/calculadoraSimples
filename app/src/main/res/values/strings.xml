@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora Simples</string>
+    <string name="homeOption_sum">Somar</string>
+    <string name="homeOption_sub">Subtrair</string>
+    <string name="homeOption_multi">Multiplicar</string>
+    <string name="homeOption_div">Dividir</string>
+    <string name="numbersBox_hint">Insira dois números nos campos abaixo:</string>
+    <string name="calculate_hint">Calcular</string>
+    <string name="result_hint">Resultado</string>
+    <string name="result_field">%.2f</string>
+</resources>
